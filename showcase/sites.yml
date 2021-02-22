@@ -1,3 +1,14 @@
+- title: Nuxpresso
+  url: https://nuxpresso.netlify.app
+  description: Visual website builder for Strapi. MOKAStudio visual blocks builder. VueJS/NuxtJS
+  categories:
+    - website builder
+  frontend:
+    - Nuxt.js
+    - Vue.js (visual builder)
+    - TailwindCSS
+  made_by: Antonio Nardone
+  made_by_url: https://antonionardone.com
 - title: AllDadsTalk
   url: https://alldadstalk.com
   description: Blog webapp made with Strapi, Next.js and Styled Components.
